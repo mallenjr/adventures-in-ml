@@ -1,2 +1,3 @@
 # adventures-in-ml
-A collection of the machine learning networks I implemented while reading Neural Networks and Deep Learning.
+
+This is a collection of Jupyter notebooks that show the process of me implementing the examples found in Deep Learning with Python by François Chollet. More often than not, I follow the examples to a tee but I also try to expound on them a bit and show my process of understanding the examples.
